@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8191ae3489822e842a4c995be68aa7db, type: 3}
+  m_Name: Super Pole
+  m_EditorClassIdentifier: 
+  itemName: Super Pole
+  icon: {fileID: 21300000, guid: d25806e4001c1f4499e549bfaa37f8e1, type: 3}
+  price: 500
+  Purchased: 1
+  slotIndex: 2
+  polePrefab: {fileID: 5549313008247995261, guid: dd7112392c2c8dc4e80659959719432a, type: 3}
